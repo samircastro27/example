@@ -39,3 +39,4 @@ _To run command_
 skaffold run -p name-profile
 ```
 docker-compose up -d
+kubectl get ns
