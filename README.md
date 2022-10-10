@@ -40,3 +40,4 @@ skaffold run -p name-profile
 ```
 docker-compose up -d
 kubectl get ns
+kubectl -n test get all
