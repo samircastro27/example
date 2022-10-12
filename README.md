@@ -38,6 +38,8 @@ _To run command_
 ```
 skaffold run -p name-profile
 ```
+
+_To run command_
 docker-compose up -d
 kubectl get ns
 kubectl -n test get all
