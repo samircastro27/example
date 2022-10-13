@@ -45,4 +45,3 @@ kubectl get ns
 kubectl -n test get all
 kubectl -n default get all
 kubectl tet context
-kubectl tet context
