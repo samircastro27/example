@@ -46,4 +46,3 @@ kubectl -n test get all
 kubectl -n default get all
 kubectl tet context
 kubectl tet context
-EVENT_TOPIC_PIPELINES
