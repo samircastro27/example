@@ -28,6 +28,8 @@ _To run the server with its functionality, you must use the node run command_
 
 ```
 npm i && node server.js
+
+All is ready!
 ```
 
 
