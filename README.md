@@ -44,5 +44,7 @@ docker-compose up -d
 kubectl get ns
 kubectl -n test get all
 kubectl -n default get all
-
+kubectl get ns
+kubectl -n test get all
+kubectl -n default get all
 ...
