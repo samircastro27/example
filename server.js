@@ -16,5 +16,8 @@ app.get("/saludos", function(req, res){
 const PORT = process.env.PORT || 8000
 
 app.listen(PORT, ()=> {
+    //console.log(`El servidor funciona correctamente en el puerto: ${PORT}`);
+    for (let i = 0; i < 30; i++) {
     console.log(`El servidor funciona correctamente en el puerto: ${PORT}`);
+}
 })
